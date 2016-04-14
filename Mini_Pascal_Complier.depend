@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1460601239 source:e:\bianyiyuanli\mini_pascal_complier\main.cpp
+	<iostream>
+	"Token.h"
+	"identifier.h"
+	<vector>
+	<map>
+	<string>
+	<list>
+	<algorithm>
+
+1460599969 e:\bianyiyuanli\mini_pascal_complier\token.h
+	<iostream>
+	<vector>
+	<map>
+	<string>
+	<list>
+
+1460602560 source:e:\bianyiyuanli\mini_pascal_complier\token.cpp
+	"token.h"
+	"identifier.h"
+	<fstream>
+
+1460600677 e:\bianyiyuanli\mini_pascal_complier\identifier.h
+
